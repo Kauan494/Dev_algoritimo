@@ -1,0 +1,7 @@
+acai;300g:RS20,00 e 500g:RS35,00;Acai com leite ninho, leite codensado e fruta a suCarne ou queijo
+acai;300g:RS20,00 e 500g:RS35,00;Acai com leite ninho, leite codensado e fruta a suCarne ou queijo
+pastel;RS15,00;Carne ou queijo
+acai;300g:RS20,00 e 500g:RS35,00;Acai com leite ninho, leite codensado e fruta a suCarne ou queijo
+acai;300g:RS20,00 e 500g:RS35,00;Acai com leite ninho, leite codensado e fruta a suaCarne ou queijo
+acai;300g:RS20,00 e 500g:RS35,00;Acai com leite ninho, leite codensado e fruta a sua escolha
+pizza;8 pedacos:RS60,00 e 4 pedacos:RS40,00;Mussarela ou portuguesa
