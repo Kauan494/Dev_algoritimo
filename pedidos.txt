@@ -1,3 +1,0 @@
-pizza;13
-macarrao;12
-sushi;3

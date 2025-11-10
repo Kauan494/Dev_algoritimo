@@ -1,4 +1,0 @@
-kaka;pizza;6
-pizza;4
-pizza;5
-macarrao;1

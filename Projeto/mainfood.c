@@ -66,6 +66,19 @@ int login(char *usuLogado){
 	return logado;
 }
 
+void cardapio(){
+    printf("\n--- Cardapio ---\n");
+    printf("1. Hamburguer - R$30,00\n");
+    printf("2. Pizza (8 pedaços: R$60,00 | 4 pedacos: R$40,00)\n");
+    printf("3. Sushi - Cada peca R$10,00\n");
+    printf("4. Acai (300g: R$20,00 | 500g: R$35,00)\n");
+    printf("5. Pastel - R$15,00\n");
+    printf("6. Sorvete - R$10,00 por bola\n");
+    printf("7. Lasanha - R$50,00\n");
+    printf("8. Espetinho - R$7,00\n");
+    printf("9. Hot Dog - R$20,00\n");
+}
+
 void buscar(){
 	int i;
     char alimentos [9][50] = 
@@ -92,6 +105,7 @@ void buscar(){
     	encontrado = 0;
     	
         printf("\n--- Buscar Alimentos ---\n");
+        cardapio();
 	    printf("Digite o nome do alimento que deseja buscar:");
 	    scanf("%s", nomeAli);
 	
